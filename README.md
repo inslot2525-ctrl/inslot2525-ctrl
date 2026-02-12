@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inslot2525-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="inslot2525-ctrl" /> </p>
 
-- 🔭 I’m currently working on **Ad-recommendation system**
-
-- 💬 Ask me about **MACHINE LEARNING AND DATA SCIENCE**
+- 💬 Ask me about **AI AND DATA SCIENCE**
 
 - 📫 How to reach me **www.linkedin.com/in/aditya-chimurkar25**
 
