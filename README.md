@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ADITYA</h1>
-<h3 align="center">AIML AND DATA SCIENCE ENTHUSIAST</h3>
+<h3 align="center">BUILDING AI APPLICATIONS AND AGENTS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inslot2525-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="inslot2525-ctrl" /> </p>
 
-- 💬 Ask me about **AI AND DATA SCIENCE**
+- 💬 Ask me about **AI AND TECH **
 
 - 📫 How to reach me **www.linkedin.com/in/aditya-chimurkar25**
 
