@@ -1,34 +1,63 @@
-# Hi 👋, I'm Aditya
-
-### BUILDING AI AGENTS AND WORKFLOWS
-
 <div align="center">
 
-<img src="https://github.com/inslot2525-ctrl.png" alt="Aditya" width="150" height="150" style="border-radius: 50%; border: 4px solid #007AFF;">
+![banner](./banner.png)
 
 </div>
 
-- 🔭 I'm currently working on **SERVICIAN- A RAG based document processing AI agent**
+<div align="center">
 
+*i build AI that thinks. some of it even thinks correctly.*
 
-I'm currently working on amazing projects!
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/inslot2525-ctrl" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="inslot2525-ctrl" height="30" width="40" /></a>
-<a href="https://linkedin.com/www.linkedin.com/in/aditya-chimurkar25" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/aditya-chimurkar25" height="30" width="40" /></a>
-<a href="https://medium.com/@https://medium.com/@adityac2525" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@adityac2525" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,r,react,fastapi,mysql,git,pytorch" /> </a></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inslot2525-ctrl&theme=tokyonight" alt="inslot2525-ctrl" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=inslot2525-ctrl.inslot2525-ctrl)
 
-### 🚀 Projects
+</div>
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Servician-** | No description available |  | [Link](https://github.com/inslot2525-ctrl/Servician-) |
-| **STATMIND-AI** | No description available | Python | [Link](https://github.com/inslot2525-ctrl/STATMIND-AI) |
-| **AI-Operational-Error-Assistant** | No description available | Python | [Link](https://github.com/inslot2525-ctrl/AI-Operational-Error-Assistant) |
+---
+
+### hey.
+
+i'm aditya. i train models, build agents, and occasionally convince LLMs to do useful things on the first try.
+
+my day is split between wrangling pytorch, chaining together n8n workflows that probably shouldn't work but do, and asking "why is the loss going up" more times than i'd like to admit.
+
+when i'm not staring at loss curves, i'm in the gym, watching films, or arguing about sports with people who are statistically wrong.
+
+> built StatMind AI — turns your documents into stats and insights, because reading is overrated. then built Servician, a RAG-based service bot that actually answers questions instead of making you scroll through 40 pages of documentation.
+
+---
+
+### what i work with
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,react,mysql,github,r&theme=dark)](https://skillicons.dev)
+
+</div>
+
+also: `n8n` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `RAG pipelines` &nbsp;·&nbsp; `REST APIs`
+
+---
+
+### things i've shipped
+
+| project | what it does |
+|---|---|
+| **StatMind AI** | converts documents into statistics and data insights |
+| **Servician** | RAG-based service bot — context-aware, actually helpful |
+
+---
+
+<div align="center">
+
+*open to collabs, interesting problems, and people who take their craft seriously.*
+
+</div>
