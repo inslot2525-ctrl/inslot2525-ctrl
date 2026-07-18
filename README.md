@@ -2,17 +2,11 @@
 
 ![banner](./banner.png)
 
-</div>
-
-<div align="center">
-
-*i build AI that thinks. some of it even thinks correctly.*
-
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=i+build+AI+that+thinks.;some+of+it+even+thinks+correctly.;training+models+%7C+building+agents;wrangling+PyTorch+since+forever." alt="Typing SVG" />
+</a>
 
 <br/>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chimurkar25)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chimurkar.aditya@gmail.com)
@@ -48,10 +42,37 @@ also: `n8n` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `RAG pipelines` &nbsp;·&n
 
 ### things i've shipped
 
-| project | what it does |
-|---|---|
-| **StatMind AI** | converts documents into statistics and data insights |
-| **Servician** | RAG-based service bot — context-aware, actually helpful |
+<details open>
+<summary><b>StatMind AI</b></summary>
+<br/>
+converts documents into statistics and data insights.
+</details>
+
+<details open>
+<summary><b>Servician</b></summary>
+<br/>
+RAG-based service bot — context-aware, actually helpful.
+</details>
+
+---
+
+### github, quantified
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=inslot2525-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inslot2525-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=inslot2525-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" />
+
+</div>
+
+<details>
+<summary><b>contribution activity graph</b></summary>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=inslot2525-ctrl&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" />
+
+</details>
 
 ---
 
