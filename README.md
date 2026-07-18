@@ -67,13 +67,6 @@ RAG-based service bot — context-aware, actually helpful.
 
 </div>
 
-<details>
-<summary><b>contribution activity graph</b></summary>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=inslot2525-ctrl&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" />
-
-</details>
-
 ---
 
 <div align="center">
