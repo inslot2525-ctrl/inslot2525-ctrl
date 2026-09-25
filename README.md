@@ -69,7 +69,7 @@ Agentic prompt pipeline: **plan → enhance → compress → route → verify**.
 <td width="50%" valign="top">
 
 #### 🛵 [EyesUp](https://github.com/inslot2525-ctrl/EyesUp)
-**🏆 iQOO Hackathon 2026 winner.** On-device Android copilot for gig drivers. It scores each incoming order against every other live offer and speaks the verdict in Marathi, Hindi or English. Nothing leaves the phone.
+On-device Android copilot for gig drivers. It scores each incoming order against every other live offer and speaks the verdict in Marathi, Hindi or English. Nothing leaves the phone.
 
 `On-device NLU` `Android` `Voice`
 
