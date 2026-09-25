@@ -15,10 +15,11 @@ ROOT = os.path.join(os.path.dirname(__file__), "..")
 README = os.path.join(ROOT, "README.md")
 START, END = "<!--RECENT:START-->", "<!--RECENT:END-->"
 LIMIT = 6
+# Repos never shown on the profile.
+HIDDEN = {"AI-Operational-Error-Assistant"}
 
 # Used when a repo has no GitHub description set.
 FALLBACK = {
-    "AI-Operational-Error-Assistant": "AURA-Lite: RAG + OCR troubleshooting copilot grounded in SOPs",
     "IICWMS": "Multi-agent IT workflow monitoring & anomaly detection",
     "LLM--HARNESS": "LLM red-team harness: attack variants, scoring, hardening",
     "Tokeniser": "TokenWise: agentic prompt optimizer that cuts 40-60% tokens",
@@ -69,7 +70,8 @@ def render(repos):
 
 def main():
     repos = fetch(f"https://api.github.com/users/{USER}/repos?per_page=100&sort=pushed")
-    repos = [r for r in repos if not r["fork"] and not r["archived"] and r["name"] != USER]
+    repos = [r for r in repos if not r["fork"] and not r["archived"] and r["name"] != USER
+             and r["name"] not in HIDDEN]
     repos.sort(key=lambda r: r["pushed_at"], reverse=True)
 
     with open(README, encoding="utf-8") as f:

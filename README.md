@@ -26,8 +26,8 @@ class Aditya:
     location   = "India 🇮🇳"
     role       = "AI / ML Engineer (in the making, shipping anyway)"
     focus      = ["multi-agent systems", "RAG pipelines", "LLM safety & red-teaming", "graph ML"]
-    shipping   = ["AURA-Lite", "LLM Red-Team Harness", "TokenWise", "ORCA"]
-    hackathons = ["Smart India Hackathon 2025 · ISRO PS", "iQOO Hackathon 2026 · Pune City Battle"]
+    shipping   = ["FRECTION", "TokenWise", "StatMind AI", "EyesUp"]
+    hackathons = ["iQOO Hackathon Winner 🏆", "SIH Winner 🏆", "2x Hackathon Finalist"]
     off_hours  = ["gym", "films", "arguing about sports with people who are statistically wrong"]
 
     def debug(self):
@@ -42,42 +42,6 @@ class Aditya:
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 [AURA-Lite](https://github.com/inslot2525-ctrl/AI-Operational-Error-Assistant)
-Industrial troubleshooting copilot. Takes a text **or photo** of the error, runs OCR, retrieves the matching SOP and returns grounded fix steps instead of generic LLM guesses.
-
-`RAG` `OCR` `FastAPI` `Agents`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛡️ [LLM Red-Team Harness](https://github.com/inslot2525-ctrl/LLM--HARNESS)
-Attacks your LLM before users do: generates adversarial and prompt-injection variants, scores the model's behaviour, suggests prompt hardening and writes a safety report.
-
-`Next.js` `FastAPI` `TypeScript` `LLM Safety`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ⚡ [TokenWise](https://github.com/inslot2525-ctrl/Tokeniser)
-Agentic prompt pipeline: **plan → enhance → compress → route → verify**. Saves ~40–60% tokens, routes in under 250 ms locally and catches 25+ jailbreak patterns.
-
-`Python` `Agents` `LLM Routing`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌊 [ORCA](https://github.com/inslot2525-ctrl/ORCA-Marine-system)
-**Smart India Hackathon 2025 · ISRO problem statement.** 8 collaborating agents reason over satellite ocean data (SST, chlorophyll, weather) through chat in 10 Indian languages.
-
-`Multi-Agent` `Earth Observation` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🕸️ [FRECTION](https://github.com/inslot2525-ctrl/FRECTION)
 Finds coordinated fraud rings, not just single suspicious transactions. Combines GNN embeddings, Isolation Forest and community detection on the transaction graph.
 
@@ -86,10 +50,10 @@ Finds coordinated fraud rings, not just single suspicious transactions. Combines
 </td>
 <td width="50%" valign="top">
 
-#### 🛵 [EyesUp](https://github.com/inslot2525-ctrl/EyesUp)
-**iQOO Hackathon 2026.** On-device Android copilot for gig drivers. It scores each incoming order against every other live offer and speaks the verdict in Marathi, Hindi or English. Nothing leaves the phone.
+#### ⚡ [TokenWise](https://github.com/inslot2525-ctrl/Tokeniser)
+Agentic prompt pipeline: **plan → enhance → compress → route → verify**. Saves ~40–60% tokens, routes in under 250 ms locally and catches 25+ jailbreak patterns.
 
-`On-device NLU` `Android` `Voice`
+`Python` `Agents` `LLM Routing`
 
 </td>
 </tr>
@@ -104,10 +68,46 @@ Finds coordinated fraud rings, not just single suspicious transactions. Combines
 </td>
 <td width="50%" valign="top">
 
+#### 🛵 [EyesUp](https://github.com/inslot2525-ctrl/EyesUp)
+**🏆 iQOO Hackathon 2026 winner.** On-device Android copilot for gig drivers. It scores each incoming order against every other live offer and speaks the verdict in Marathi, Hindi or English. Nothing leaves the phone.
+
+`On-device NLU` `Android` `Voice`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ [LLM Red-Team Harness](https://github.com/inslot2525-ctrl/LLM--HARNESS)
+Attacks your LLM before users do: generates adversarial and prompt-injection variants, scores the model's behaviour, suggests prompt hardening and writes a safety report.
+
+`Next.js` `FastAPI` `TypeScript` `LLM Safety`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌊 [ORCA](https://github.com/inslot2525-ctrl/ORCA-Marine-system)
+**Smart India Hackathon 2025 · ISRO problem statement.** 8 collaborating agents reason over satellite ocean data (SST, chlorophyll, weather) through chat in 10 Indian languages.
+
+`Multi-Agent` `Earth Observation` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 🔎 [Rivalyze](https://github.com/inslot2525-ctrl/Rivalyze)
 Type a company name, get a market brief. It runs 8 parallel searches (news, finance, jobs, pricing and more) and turns them into one dashboard.
 
 `Agents` `Python` `Web Intelligence`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📡 [IICWMS](https://github.com/inslot2525-ctrl/IICWMS)
+Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs, flag inefficiencies, anomalies and compliance violations, and show the fixes on a live dashboard.
+
+`Multi-Agent` `Python` `Anomaly Detection`
 
 </td>
 </tr>
@@ -119,7 +119,6 @@ Type a company name, get a market brief. It runs 8 parallel searches (news, fina
 
 | project | what it does |
 |---|---|
-| [**IICWMS**](https://github.com/inslot2525-ctrl/IICWMS) | multi-agent IT workflow monitoring with anomaly and compliance detection |
 | [**SABOT**](https://github.com/inslot2525-ctrl/SABOT) | RAG sales-intelligence assistant with evidence-backed answers and lead capture |
 | [**Servician**](https://github.com/inslot2525-ctrl/Servician-) | RAG service bot that answers from your docs so you don't scroll 40 pages |
 | [**MeetFlow**](https://github.com/inslot2525-ctrl/MeetFlow) | meeting transcripts to structured tasks with a DeBERTa classifier |
