@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chimurkar25)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chimurkar.aditya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://vitejs-vite-duplicat-e9jc.bolt.host/)
 [![Followers](https://img.shields.io/github/followers/inslot2525-ctrl?style=for-the-badge&logo=github&label=followers&color=161b22)](https://github.com/inslot2525-ctrl?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=inslot2525-ctrl&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
