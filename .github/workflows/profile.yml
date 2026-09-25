@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths-ignore: ["README.md", "assets/stats.svg"]
+    paths-ignore: ["README.md"]
 
 permissions:
   contents: write
@@ -44,9 +44,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: commit if changed
         run: |
-          git add README.md assets/stats.svg
+          git add README.md
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: refresh profile stats and recent projects"
+          git commit -m "chore: refresh recently active projects"
           git push

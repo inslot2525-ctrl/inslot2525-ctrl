@@ -170,16 +170,6 @@ Type a company name, get a market brief. It runs 8 parallel searches (news, fina
 
 ---
 
-### 📈 github pulse
-
-<div align="center">
-
-<img width="100%" src="./assets/stats.svg" alt="GitHub stats: repos, stars, followers and language breakdown"/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=inslot2525-ctrl&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
-
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inslot2525-ctrl/inslot2525-ctrl/output/github-snake-dark.svg"/>
