@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#0d1326"/>
+      <stop offset="1" stop-color="#140d2b"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="0.5" stop-color="#e2e8f0"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1e293b" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+    <style>
+      .edge { stroke: #334155; stroke-width: 1.2; fill: none; }
+      .flow { stroke-width: 1.6; fill: none; stroke-dasharray: 6 14; animation: flow 3s linear infinite; }
+      .c { stroke: #22d3ee; } .v { stroke: #a78bfa; }
+      .node { animation: pulse 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .d1 { animation-delay: .4s } .d2 { animation-delay: .8s } .d3 { animation-delay: 1.2s }
+      .d4 { animation-delay: 1.6s } .d5 { animation-delay: 2s } .d6 { animation-delay: 2.4s }
+      .drift { animation: drift 9s ease-in-out infinite alternate; }
+      .drift2 { animation: drift 11s ease-in-out infinite alternate-reverse; }
+      .name { font: 800 56px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 4px; }
+      .sub { font: 500 20px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 3px; fill: #94a3b8; }
+      .mono { font: 500 15px 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace; fill: #64748b; letter-spacing: 1px; }
+      .role { font: 600 22px 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace; opacity: 0; animation: cycle 12s infinite; }
+      .r2 { animation-delay: 3s } .r3 { animation-delay: 6s } .r4 { animation-delay: 9s }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      .fadein { animation: fadein 1.2s ease-out both; }
+      @keyframes flow { to { stroke-dashoffset: -40; } }
+      @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.35); } }
+      @keyframes drift { from { transform: translate(0,0); } to { transform: translate(18px,-10px); } }
+      @keyframes cycle { 0% { opacity: 0; transform: translateY(8px); } 4%,21% { opacity: 1; transform: translateY(0); } 25%,100% { opacity: 0; transform: translateY(-8px); } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes fadein { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <circle class="drift" cx="120" cy="60" r="220" fill="url(#glowA)"/>
+    <circle class="drift2" cx="1090" cy="300" r="240" fill="url(#glowB)"/>
+
+    <!-- left network -->
+    <g transform="translate(-35,0)">
+      <path class="edge" d="M60 90 L170 150 M60 210 L170 150 M60 210 L170 260 M60 90 L170 60 M170 60 L270 110 M170 150 L270 110 M170 150 L270 210 M170 260 L270 210"/>
+      <path class="flow c" d="M60 90 L170 150 L270 110"/>
+      <path class="flow v" d="M60 210 L170 260 L270 210" style="animation-delay:-1.5s"/>
+      <circle class="node" cx="60" cy="90" r="5" fill="#22d3ee"/>
+      <circle class="node d2" cx="60" cy="210" r="5" fill="#a78bfa"/>
+      <circle class="node d1" cx="170" cy="60" r="4" fill="#67e8f9"/>
+      <circle class="node d3" cx="170" cy="150" r="6" fill="#22d3ee"/>
+      <circle class="node d5" cx="170" cy="260" r="4" fill="#c4b5fd"/>
+      <circle class="node d4" cx="270" cy="110" r="5" fill="#67e8f9"/>
+      <circle class="node d6" cx="270" cy="210" r="5" fill="#a78bfa"/>
+    </g>
+
+    <!-- right network -->
+    <g transform="translate(35,0)">
+      <path class="edge" d="M930 110 L1030 70 M930 110 L1030 170 M930 230 L1030 170 M930 230 L1030 280 M1030 70 L1140 130 M1030 170 L1140 130 M1030 170 L1140 240 M1030 280 L1140 240"/>
+      <path class="flow v" d="M930 110 L1030 170 L1140 130"/>
+      <path class="flow c" d="M930 230 L1030 280 L1140 240" style="animation-delay:-1s"/>
+      <circle class="node d1" cx="930" cy="110" r="5" fill="#a78bfa"/>
+      <circle class="node d4" cx="930" cy="230" r="5" fill="#22d3ee"/>
+      <circle class="node" cx="1030" cy="70" r="4" fill="#c4b5fd"/>
+      <circle class="node d2" cx="1030" cy="170" r="6" fill="#a78bfa"/>
+      <circle class="node d6" cx="1030" cy="280" r="4" fill="#67e8f9"/>
+      <circle class="node d3" cx="1140" cy="130" r="5" fill="#c4b5fd"/>
+      <circle class="node d5" cx="1140" cy="240" r="5" fill="#22d3ee"/>
+    </g>
+
+    <!-- text -->
+    <g text-anchor="middle">
+      <text class="mono" x="600" y="78">~/aditya $ python -m build_intelligence</text>
+      <text class="name" x="600" y="152" fill="url(#title)">ADITYA CHIMURKAR</text>
+      <text class="sub" x="600" y="190">AI ENGINEER · AGENTS · RAG · APPLIED ML</text>
+
+      <g transform="translate(0,242)">
+        <text class="role"    x="600" y="0" fill="#67e8f9">&gt; building multi-agent systems</text>
+        <text class="role r2" x="600" y="0" fill="#c4b5fd">&gt; shipping RAG that actually cites its sources</text>
+        <text class="role r3" x="600" y="0" fill="#67e8f9">&gt; red-teaming LLMs before users do</text>
+        <text class="role r4" x="600" y="0" fill="#c4b5fd">&gt; training models, then asking why loss went up</text>
+      </g>
+
+      <text class="mono" x="600" y="298">python · pytorch · langgraph · fastapi · react · n8n<tspan class="cursor" fill="#22d3ee"> ▍</tspan></text>
+    </g>
+  </g>
+</svg>
