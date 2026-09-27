@@ -27,7 +27,7 @@ class Aditya:
     role       = "AI / ML Engineer (in the making, shipping anyway)"
     focus      = ["multi-agent systems", "RAG pipelines", "LLM safety & red-teaming", "graph ML"]
     shipping   = ["FRECTION", "TokenWise", "StatMind AI", "EyesUp"]
-    hackathons = ["iQOO Hackathon Winner 🏆", "SIH Winner 🏆", "2x Hackathon Finalist"]
+    hackathons = ["iQOO Hackathon Winner 🏆", "ISIH Winner 🏆", "DeepEntra Hackathon Winner 🏆",  "2x Hackathon Finalist"]
     off_hours  = ["gym", "films", "arguing about sports with people who are statistically wrong"]
 
     def debug(self):
