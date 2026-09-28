@@ -159,12 +159,12 @@ Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs
 <!--RECENT:START-->
 | project | what it is | stack | last push |
 |---|---|---|---|
-| [**ML_CP**](https://github.com/inslot2525-ctrl/ML_CP) |  | `Jupyter Notebook` | 16h ago |
-| [**Rivalyze**](https://github.com/inslot2525-ctrl/Rivalyze) | Competitive-intel agent: 8 parallel searches into one brief | `Python` | 10d ago |
-| [**MeetFlow**](https://github.com/inslot2525-ctrl/MeetFlow) | Meeting transcripts to structured tasks with DeBERTa | `TypeScript` | 13d ago |
-| [**EyesUp**](https://github.com/inslot2525-ctrl/EyesUp) | On-device voice copilot for gig drivers (iQOO Hackathon 2026) |  | 22d ago |
-| [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection with GNNs + graph analytics | `Python` | 25d ago |
-| [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 25d ago |
+| [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection with GNNs + graph analytics | `Python` | 8h ago |
+| [**ML_CP**](https://github.com/inslot2525-ctrl/ML_CP) |  | `Jupyter Notebook` | 1d ago |
+| [**Rivalyze**](https://github.com/inslot2525-ctrl/Rivalyze) | Competitive-intel agent: 8 parallel searches into one brief | `Python` | 11d ago |
+| [**MeetFlow**](https://github.com/inslot2525-ctrl/MeetFlow) | Meeting transcripts to structured tasks with DeBERTa | `TypeScript` | 14d ago |
+| [**EyesUp**](https://github.com/inslot2525-ctrl/EyesUp) | On-device voice copilot for gig drivers (iQOO Hackathon 2026) |  | 23d ago |
+| [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 26d ago |
 <!--RECENT:END-->
 
 ---
