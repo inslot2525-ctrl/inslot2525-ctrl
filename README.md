@@ -43,7 +43,7 @@ class Aditya:
 <td width="50%" valign="top">
 
 #### 🕸️ [FRECTION](https://github.com/inslot2525-ctrl/FRECTION)
-Finds coordinated fraud rings, not just single suspicious transactions. Combines GNN embeddings, Isolation Forest and community detection on the transaction graph.
+Finds coordinated fraud rings, not just single suspicious transactions. Flags mule hubs and fraud actors from the structure of money flow, explains every verdict, and benchmarks GraphSAGE against tree baselines. [Live demo](https://frection.onrender.com/detect?demo=1&account=MULE_HUB_CRITICAL_0)
 
 `GNN` `PyTorch` `Graph Analytics`
 
@@ -159,7 +159,7 @@ Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs
 <!--RECENT:START-->
 | project | what it is | stack | last push |
 |---|---|---|---|
-| [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection with GNNs + graph analytics | `Python` | 19h ago |
+| [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection on transaction graphs, with an explanation for every verdict | `Python` | 19h ago |
 | [**Rivalyze**](https://github.com/inslot2525-ctrl/Rivalyze) | Competitive-intel agent: 8 parallel searches into one brief | `Python` | 7d ago |
 | [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 10d ago |
 | [**ML_CP**](https://github.com/inslot2525-ctrl/ML_CP) |  | `Jupyter Notebook` | 13d ago |

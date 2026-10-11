@@ -24,7 +24,7 @@ FALLBACK = {
     "LLM--HARNESS": "LLM red-team harness: attack variants, scoring, hardening",
     "Tokeniser": "TokenWise: agentic prompt optimizer that cuts 40-60% tokens",
     "ORCA-Marine-system": "8-agent marine intelligence platform (SIH 2025, ISRO)",
-    "FRECTION": "Fraud-ring detection with GNNs + graph analytics",
+    "FRECTION": "Fraud-ring detection on transaction graphs, with an explanation for every verdict",
     "EyesUp": "On-device voice copilot for gig drivers (iQOO Hackathon 2026)",
     "Rivalyze": "Competitive-intel agent: 8 parallel searches into one brief",
     "STATMIND-AI": "Upload a CSV, get stats, ML models and AI insights",
