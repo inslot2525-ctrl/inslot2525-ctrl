@@ -163,7 +163,7 @@ Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs
 | [**Rivalyze**](https://github.com/inslot2525-ctrl/Rivalyze) | Competitive-intel agent: 8 parallel searches into one brief | `Python` | 7d ago |
 | [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 11d ago |
 | [**ML_CP**](https://github.com/inslot2525-ctrl/ML_CP) |  | `Jupyter Notebook` | 14d ago |
-| [**MeetFlow**](https://github.com/inslot2525-ctrl/MeetFlow) | Meeting transcripts to structured tasks with DeBERTa | `TypeScript` | 26d ago |
+| [**MeetFlow**](https://github.com/inslot2525-ctrl/MeetFlow) | Meeting transcripts to structured tasks with DeBERTa | `TypeScript` | 27d ago |
 | [**EyesUp**](https://github.com/inslot2525-ctrl/EyesUp) | On-device voice copilot for gig drivers (iQOO Hackathon 2026) |  | 1mo ago |
 <!--RECENT:END-->
 
