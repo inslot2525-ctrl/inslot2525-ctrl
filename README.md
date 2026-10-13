@@ -159,7 +159,7 @@ Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs
 <!--RECENT:START-->
 | project | what it is | stack | last push |
 |---|---|---|---|
-| [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 3h ago |
+| [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 11h ago |
 | [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection on transaction graphs, with an explanation for every verdict | `Python` | 2d ago |
 | [**Rivalyze**](https://github.com/inslot2525-ctrl/Rivalyze) | Competitive-intel agent: 8 parallel searches into one brief | `Python` | 9d ago |
 | [**ML_CP**](https://github.com/inslot2525-ctrl/ML_CP) |  | `Jupyter Notebook` | 15d ago |
