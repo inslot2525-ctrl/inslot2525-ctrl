@@ -159,11 +159,11 @@ Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs
 <!--RECENT:START-->
 | project | what it is | stack | last push |
 |---|---|---|---|
-| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `TypeScript` | 9h ago |
-| [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 13h ago |
-| [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection on transaction graphs, with an explanation for every verdict | `Python` | 4d ago |
+| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `TypeScript` | 23h ago |
+| [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 1d ago |
+| [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection on transaction graphs, with an explanation for every verdict | `Python` | 5d ago |
 | [**Rivalyze**](https://github.com/inslot2525-ctrl/Rivalyze) | Competitive-intel agent: 8 parallel searches into one brief | `Python` | 11d ago |
-| [**ML_CP**](https://github.com/inslot2525-ctrl/ML_CP) |  | `Jupyter Notebook` | 17d ago |
+| [**ML_CP**](https://github.com/inslot2525-ctrl/ML_CP) |  | `Jupyter Notebook` | 18d ago |
 | [**MeetFlow**](https://github.com/inslot2525-ctrl/MeetFlow) | Meeting transcripts to structured tasks with DeBERTa | `TypeScript` | 1mo ago |
 <!--RECENT:END-->
 
