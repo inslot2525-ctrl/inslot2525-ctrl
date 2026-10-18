@@ -158,11 +158,11 @@ Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs
 <!--RECENT:START-->
 | project | what it is | stack | last push |
 |---|---|---|---|
-| [**LocalLift**](https://github.com/inslot2525-ctrl/LocalLift) |  | `Python` | 7h ago |
-| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `Python` | 8h ago |
-| [**MLOPS_CP**](https://github.com/inslot2525-ctrl/MLOPS_CP) |  | `Python` | 1d ago |
-| [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 3d ago |
-| [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection on transaction graphs, with an explanation for every verdict | `Python` | 7d ago |
+| [**LocalLift**](https://github.com/inslot2525-ctrl/LocalLift) |  | `Python` | just now |
+| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `Python` | 21h ago |
+| [**MLOPS_CP**](https://github.com/inslot2525-ctrl/MLOPS_CP) |  | `Python` | 2d ago |
+| [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 4d ago |
+| [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection on transaction graphs, with an explanation for every verdict | `Python` | 8d ago |
 | [**Rivalyze**](https://github.com/inslot2525-ctrl/Rivalyze) | Competitive-intel agent: 8 parallel searches into one brief | `Python` | 14d ago |
 <!--RECENT:END-->
 
