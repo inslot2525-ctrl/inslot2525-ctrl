@@ -158,12 +158,12 @@ Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs
 <!--RECENT:START-->
 | project | what it is | stack | last push |
 |---|---|---|---|
-| [**ring-partner-mcp**](https://github.com/inslot2525-ctrl/ring-partner-mcp) | MCP server for the Ring Partner API: devices, events and snapshots for AI agents | `TypeScript` | 3d ago |
-| [**LocalLift**](https://github.com/inslot2525-ctrl/LocalLift) |  | `Python` | 4d ago |
-| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `Python` | 5d ago |
+| [**Threshold**](https://github.com/inslot2525-ctrl/Threshold) |  | `TypeScript` | 7h ago |
+| [**ring-partner-mcp**](https://github.com/inslot2525-ctrl/ring-partner-mcp) | MCP server for the Ring Partner API: devices, events and snapshots for AI agents | `TypeScript` | 4d ago |
+| [**LocalLift**](https://github.com/inslot2525-ctrl/LocalLift) |  | `Python` | 5d ago |
+| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `Python` | 6d ago |
 | [**MLOPS_CP**](https://github.com/inslot2525-ctrl/MLOPS_CP) |  | `Python` | 7d ago |
 | [**STATMIND-AI**](https://github.com/inslot2525-ctrl/STATMIND-AI) | Upload a CSV, get stats, ML models and AI insights | `Python` | 9d ago |
-| [**FRECTION**](https://github.com/inslot2525-ctrl/FRECTION) | Fraud-ring detection on transaction graphs, with an explanation for every verdict | `Python` | 13d ago |
 <!--RECENT:END-->
 
 ---
