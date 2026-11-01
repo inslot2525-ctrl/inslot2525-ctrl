@@ -160,9 +160,9 @@ Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs
 |---|---|---|---|
 | [**wild-kyuloo**](https://github.com/inslot2525-ctrl/wild-kyuloo) |  | `TypeScript` | 1d ago |
 | [**AFTERLIFE**](https://github.com/inslot2525-ctrl/AFTERLIFE) |  | `Python` | 5d ago |
-| [**Threshold**](https://github.com/inslot2525-ctrl/Threshold) |  | `TypeScript` | 7d ago |
-| [**ring-partner-mcp**](https://github.com/inslot2525-ctrl/ring-partner-mcp) | MCP server for the Ring Partner API: devices, events and snapshots for AI agents | `TypeScript` | 11d ago |
-| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `Python` | 13d ago |
+| [**Threshold**](https://github.com/inslot2525-ctrl/Threshold) |  | `TypeScript` | 8d ago |
+| [**ring-partner-mcp**](https://github.com/inslot2525-ctrl/ring-partner-mcp) | MCP server for the Ring Partner API: devices, events and snapshots for AI agents | `TypeScript` | 12d ago |
+| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `Python` | 14d ago |
 | [**MLOPS_CP**](https://github.com/inslot2525-ctrl/MLOPS_CP) |  | `Python` | 15d ago |
 <!--RECENT:END-->
 
