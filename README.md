@@ -158,11 +158,11 @@ Multi-agent monitoring for IT and cloud workflows. Agents read the workflow logs
 <!--RECENT:START-->
 | project | what it is | stack | last push |
 |---|---|---|---|
-| [**heard**](https://github.com/inslot2525-ctrl/heard) |  | `TypeScript` | 1d ago |
-| [**MLOPS_CP**](https://github.com/inslot2525-ctrl/MLOPS_CP) |  | `Python` | 4d ago |
-| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `Python` | 15d ago |
-| [**wild-kyuloo**](https://github.com/inslot2525-ctrl/wild-kyuloo) |  | `TypeScript` | 21d ago |
-| [**AFTERLIFE**](https://github.com/inslot2525-ctrl/AFTERLIFE) |  | `Python` | 25d ago |
+| [**heard**](https://github.com/inslot2525-ctrl/heard) |  | `TypeScript` | 2d ago |
+| [**MLOPS_CP**](https://github.com/inslot2525-ctrl/MLOPS_CP) |  | `Python` | 5d ago |
+| [**Tokeniser**](https://github.com/inslot2525-ctrl/Tokeniser) | TokenWise: agentic prompt optimizer that cuts 40-60% tokens | `Python` | 16d ago |
+| [**wild-kyuloo**](https://github.com/inslot2525-ctrl/wild-kyuloo) |  | `TypeScript` | 22d ago |
+| [**AFTERLIFE**](https://github.com/inslot2525-ctrl/AFTERLIFE) |  | `Python` | 26d ago |
 | [**Threshold**](https://github.com/inslot2525-ctrl/Threshold) |  | `TypeScript` | 28d ago |
 <!--RECENT:END-->
 
